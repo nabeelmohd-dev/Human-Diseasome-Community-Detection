@@ -82,7 +82,7 @@ R, `igraph` (network construction, layout, community detection algorithms),
 
 Uses the **DG-Miner disease-gene association dataset**. The raw file isn't
 included here; to reproduce, download it and point the `file_path` variable
-in `DS_updated.R` to your local copy.
+in `Main.R` to your local copy.
 
 ## Running it
 
