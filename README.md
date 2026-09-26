@@ -88,7 +88,7 @@ in `DS_updated.R` to your local copy.
 
 ```r
 install.packages(c("igraph", "data.table", "Matrix"))
-source("DS_updated.R")
+source("Main.R")
 ```
 
 Outputs are written to `diseasome_output1/` as five PNG files. Console output
